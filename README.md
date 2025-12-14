@@ -38,16 +38,16 @@ https://www.linkedin.com/in/alvin-chandr/
         <img src="https://github.com/Alvin-Cha/Golden-Escape/blob/main/Image%20and%20videos/Gameplay.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/Alvin-Cha/Pong/blob/main/Image%20and%20videos/Gameplay.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
       <td valign="text-top">Golden Escapade is inspired by the classic folktale Timun Mas. This game is all about the escape scene changed into an intense 1v1 chase between Timun Mas (the Girl) and the Green Giant. Where both players must think fast, react faster, and use their abilities strategically to win.</td> <!--desc-->
-      <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day</td> <!--desc-->
+      <td valign="text-top">Gravity Pong is a simple 2-player Pong-style game with a twist: gravity. Unlike classic Pong, players must jump to intercept the ball while managing limited health. The game focuses on timing, positioning, and fast reactions rather than complex mechanics.</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Alvin-Cha/Golden-Escape">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://github.com/Alvin-Cha/Pong/">Read More</a></td> <!--link2-->
     </tr>
     <tr>
       <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer</a></td> <!--link1-->
