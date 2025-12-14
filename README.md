@@ -7,11 +7,24 @@ I am eager to continue learning, improving, and applying my skills to contribute
 
 ![Profile Masteries](https://github.com/Alvin-Cha/alvin-cha/blob/main/Images%20and%20videos/Github%20proficiencies.jpg)
 
-**📩Email** <br>
-alvin.drata@gmail.com
+## 📬 Contact
 
-<br>
+📱 **WhatsApp**  
++62 8384-2895-909 
 
+📧 **Email**  
+alvin.drata@gmail.com  
+
+🎮 **Itch.io**  
+https://nivtee.itch.io  
+
+💻 **GitHub**  
+https://github.com/Alvin-Cha  
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/alvin-chandr/ 
+
+# Portfolio
 <table width="100%">
   <thead>
     <tr>
