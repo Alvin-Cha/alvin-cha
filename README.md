@@ -1,19 +1,19 @@
-Hi, I'm alvin 👋
+Hi, I'm Alvin Chandrawinata👋
 ---
 **📌About** <br>
-Hi, I'm Muhamad Fajar, also known as Fajarnadril. I specialize in XR development, visual design, research, and teaching. I've created various educational apps for institutions and state-owned enterprises, highlighting my skills in XR and visual design.
+My name is Alvin Chandrawinata, and I am currently pursuing a degree in Computer Science at BINUS University (Semarang/Jakarta). I have hands on experience with multiple programming languages and technologies, including C, C++, C#, Java, Python, Kotlin, HTML, CSS, and XML, as well as skills in web development, mobile application development, game development, and AI learning.
 
-I'm passionate about immersive technology, especially XR applications. I develop training and simulation apps for health and safety, educational applications, and engaging immersive marketing content.
+I am eager to continue learning, improving, and applying my skills to contribute effectively to any project or team I am part of.
 
 **📩Email** <br>
-hi@fajar.io
+alvin.drata@gmail.com
 
 <br>
 
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Project Stir </a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Golden Escapade </a></th> <!--tittle-->
       <th width="50%" align="center"><a>Hopeless</a></th> <!--tittle-->
     </tr>
   </thead>
