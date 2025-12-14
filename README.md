@@ -43,7 +43,7 @@ https://www.linkedin.com/in/alvin-chandr/
     </tr>
     <tr>
       <td valign="text-top">Golden Escapade is inspired by the classic folktale Timun Mas. This game is all about the escape scene changed into an intense 1v1 chase between Timun Mas (the Girl) and the Green Giant. Where both players must think fast, react faster, and use their abilities strategically to win.</td> <!--desc-->
-      <td valign="text-top">Gravity Pong is a simple 2-player Pong-style game with a twist: gravity. Unlike classic Pong, players must jump to intercept the ball while managing limited health. The game focuses on timing, positioning, and fast reactions rather than complex mechanics.</td> <!--desc-->
+      <td valign="text-top">This Pong game is a simple 2-player Pong-style game with a twist: gravity. Unlike classic Pong, players must jump to intercept the ball while managing limited health. The game focuses on timing, positioning, and fast reactions rather than complex mechanics.</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Alvin-Cha/Golden-Escape">Read More</a></td> <!--link1-->
