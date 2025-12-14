@@ -5,6 +5,8 @@ My name is Alvin Chandrawinata, and I am currently pursuing a degree in Computer
 
 I am eager to continue learning, improving, and applying my skills to contribute effectively to any project or team I am part of.
 
+![Profile Masteries](https://github.com/Alvin-Cha/alvin-cha/blob/main/Images%20and%20videos/Github%20proficiencies.jpg)
+
 **📩Email** <br>
 alvin.drata@gmail.com
 
