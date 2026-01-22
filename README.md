@@ -51,7 +51,7 @@ https://www.linkedin.com/in/alvin-chandr/
     </tr>
     <tr>
       <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer</a></td> <!--link1-->
-      <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Trailer</a></td> <!--link2-->
+      <td align="center"><a href=""></a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
@@ -64,7 +64,7 @@ https://www.linkedin.com/in/alvin-chandr/
   <thead>
     <tr>
       <th width="50%" align="center"><a>Safe Waste</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a>Shevia AR</a></th> <!--tittle 4-->
+      <th width="50%" align="center"><a>Jungle Leap</a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
@@ -73,16 +73,16 @@ https://www.linkedin.com/in/alvin-chandr/
         <img src="https://github.com/Alvin-Cha/alvin-cha/blob/main/Images%20and%20videos/thumbnail.jpg" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://www.shevia.id/assets/img/product/shevia-ar/1.png" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/Alvin-Cha/alvin-cha/blob/main/Images%20and%20videos/SIde%20scroller.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
       <td valign="text-top">Safe Waste is a short, educational exploration game about caring for your environment. You play as a character walking through a city. Searching for trash left behind on the streets</td> <!--desc-->
-      <td valign="text-top">Shevia Augmented Reality is a Safety Induction application using Augmented Reality, featuring a 3D viewer with visual and audio explanations. As a Unity Programmer, I developed the main mechanics of the application in under five days. This application was used within the Pertamina Group during a safety event.</td> <!--desc-->
+      <td valign="text-top">a simple 2D side-scrolling platformer set in a lush jungle environment. Players control a small adventurer who must run forward, jump over deadly spikes, and latch onto the sides of walls to hang and avoid obstacles.</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/arvedd/Safe-Waste-PKM">Read More</a></td> <!--link 3-->
-      <td align="center"><a href="">Read More</a></td> <!--link 4-->
+      <td align="center"><a href="https://github.com/Alvin-Cha/SIde-scroller">Read More</a></td> <!--link 4-->
     </tr>
     <tr>
     </tr>
