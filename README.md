@@ -49,10 +49,6 @@ https://www.linkedin.com/in/alvin-chandr/
       <td align="center"><a href="https://github.com/Alvin-Cha/Golden-Escape">Read More</a></td> <!--link1-->
       <td align="center"><a href="https://github.com/Alvin-Cha/Pong/">Read More</a></td> <!--link2-->
     </tr>
-    <tr>
-      <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer</a></td> <!--link1-->
-      <td align="center"><a href=""></a></td> <!--link2-->
-    </tr>
   </tbody>
 </table>
 
